@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+h2, h3, h4, h5, h6, p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.6rem;
+}
+
+p, li {
+    font-size: 1.25rem;
+}
+
+.green {
+    color: #557C55;
+}
+
+.experience-header {
+    font-weight: bold;
+}
+
+.header {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+}
+
+.intro-img {
+    height: auto;
+    width: 100%;
+    opacity: 0.3;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    height: 250px;
+}
+
+.social-media-logo {
+    height: 28px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+#skills p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#intro {
+    position: relative;
+}
